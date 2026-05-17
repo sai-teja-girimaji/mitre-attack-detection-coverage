@@ -1,5 +1,3 @@
-![Banner](./banner.png)
-
 # MITRE ATT&CK Detection Coverage Matrix
 
 > Microsoft Sentinel detection coverage mapped against MITRE ATT&CK Enterprise, with data source requirements, gap analysis, and actionable remediation guidance
